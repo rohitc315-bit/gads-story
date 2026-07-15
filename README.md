@@ -9,7 +9,7 @@ A single-page website telling your story, ready to publish as a link.
 - `photos/` — your photos, optimized for web
 - `audio/` — your "Hey Gads..." voice line
 
-## Publish it to GitHub Pages (same flow you used for Suhasini's site)
+## Publish it to GitHub Pages
 
 1. Create a new repo, e.g. `for-gads`.
 2. Copy everything in this folder (`index.html`, `style.css`, `script.js`, `photos/`, `audio/`) into the repo root.
